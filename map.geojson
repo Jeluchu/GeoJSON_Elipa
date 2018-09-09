@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.650886118412018,
+          40.426327981696836
+        ]
+      },
+      "properties": {
+        "marker-size": "medium",
+        "name": "Metro La Elipa",
+        "description": "Línea 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "name": "El Dragón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6561673879623413,
+          40.422842528739835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Óptica Lledó",
+        "description": "Av. del Marqués de Corbera, 54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6508995294570923,
+          40.42619118056315
+        ]
+      }
+    }
+  ]
+}
