@@ -46,6 +46,57 @@
           40.42619118056315
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "BPM La Elipa",
+        "description": "Calle Nuestra Señora del Villar, 6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6519885063171387,
+          40.42328562211799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Recinto Ferial",
+        "description": "Avenida Trece Rosas,  9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6475682258605957,
+          40.4260502955227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mercadillo",
+        "description": "Jueves y sábados de 9 a 14 horas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6476701498031616,
+          40.425707269842434
+        ]
+      }
     }
   ]
 }
