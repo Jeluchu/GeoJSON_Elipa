@@ -315,6 +315,24 @@
           40.42981529574414
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "LH Magazin",
+        "description": "Calle y Travesía del Poeta Blas de Otero, 5, Local 2",
+        "info": "https://www.lhmagazin.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.655191063880921,
+          40.42263629534266
+        ]
+      }
     }
   ]
 }
