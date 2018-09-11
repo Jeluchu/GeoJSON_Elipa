@@ -38,7 +38,7 @@
         "marker-symbol": "",
         "name": "Óptica Lledó",
         "description": "Avenida de Marqués de Corbera, 54",
-        "info": "https://www.laelipasiqueflipa.com/comerciate/lledo.html"
+        "info": "https://www.laelipasiqueflipa.com/comerciate/lledo"
       },
       "geometry": {
         "type": "Point",
@@ -108,7 +108,7 @@
         "marker-symbol": "",
         "name": "Clínica Dental Reymont",
         "description": "Calle San Maximiliano, 39",
-        "info": "https://www.laelipasiqueflipa.com/comerciate/reymont.html"
+        "info": "https://www.laelipasiqueflipa.com/comerciate/reymont"
       },
       "geometry": {
         "type": "Point",
@@ -126,7 +126,7 @@
         "marker-symbol": "",
         "name": "The Language Corner",
         "description": "Calle Gerardo Cordón, 51",
-        "info": "https://www.laelipasiqueflipa.com/comerciate/corner.html"
+        "info": "https://www.laelipasiqueflipa.com/comerciate/corner"
       },
       "geometry": {
         "type": "Point",
@@ -144,7 +144,7 @@
         "marker-symbol": "",
         "name": "Brico Luzi",
         "description": "Avenida Marqués de Corbera, 42",
-        "info": "https://www.laelipasiqueflipa.com/comerciate/luzimar.html"
+        "info": "https://www.laelipasiqueflipa.com/comerciate/luzimar"
       },
       "geometry": {
         "type": "Point",
@@ -169,6 +169,150 @@
         "coordinates": [
           -3.6581549048423767,
           40.42968054340778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "FisioLife",
+        "description": "Calle de Ezequiel Solana, 92",
+        "info": "https://www.laelipasiqueflipa.com/comerciate/fisiolife"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.642855584621429,
+          40.42781235819822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "OGA Inmobiliaria",
+        "description": "Calle Martínez Izquierdo, 53",
+        "info": "https://www.laelipasiqueflipa.com/comerciate/oga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6634683609008785,
+          40.43533378446221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "La Cueva de JiJi",
+        "description": "Calle Ignacio Ellacuría, 8",
+        "info": "https://www.laelipasiqueflipa.com/comerciate/cuevajiji"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6572322249412537,
+          40.428931233824486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Las Pilares de la Estética",
+        "description": "Avenida de Marqués de Corbera, 44 ",
+        "info": "https://www.laelipasiqueflipa.com/comerciate/pilares"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6519563198089595,
+          40.42529890365638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Marti L'Art",
+        "description": "Avenida Marqués de Corbera, 47 ",
+        "info": "https://www.laelipasiqueflipa.com/comerciate/martilart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6521387100219727,
+          40.425797110070654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "El Pollo Rcckero",
+        "description": "Calle Francisco Villaespesa, 12 ",
+        "info": "https://www.laelipasiqueflipa.com/comerciate/elpollorockero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.644859194755554,
+          40.4290312783662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "BPM Pablo Neruda",
+        "description": "Calle de Ascao,4",
+        "info": "https://es-es.facebook.com/bpmPNeruda/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6416298151016235,
+          40.42938857908604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Parroquia San Romualdo",
+        "description": "Calle de Ascao, 30",
+        "info": "http://www.archimadrid.es/sanromualdo/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.640774190425873,
+          40.42981529574414
         ]
       }
     }
