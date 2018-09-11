@@ -37,13 +37,14 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Óptica Lledó",
-        "description": "Av. del Marqués de Corbera, 54"
+        "description": "Avenida de Marqués de Corbera, 54",
+        "info": "https://www.laelipasiqueflipa.com/comerciate/lledo.html"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.6508995294570923,
-          40.42619118056315
+          -3.6508888006210323,
+          40.42619934780283
         ]
       }
     },
@@ -54,7 +55,8 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "BPM La Elipa",
-        "description": "Calle Nuestra Señora del Villar, 6"
+        "description": "Calle Nuestra Señora del Villar, 6",
+        "facebook": "https://www.facebook.com/bpmLaElipa/"
       },
       "geometry": {
         "type": "Point",
@@ -95,6 +97,78 @@
         "coordinates": [
           -3.6476701498031616,
           40.425707269842434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Clínica Dental Reymont",
+        "description": "Calle San Maximiliano, 39",
+        "info": "https://www.laelipasiqueflipa.com/comerciate/reymont.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.652849495410919,
+          40.425282568957364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "The Language Corner",
+        "description": "Calle Gerardo Cordón, 51",
+        "info": "https://www.laelipasiqueflipa.com/comerciate/corner.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.652980923652649,
+          40.42734887689348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Brico Luzi",
+        "description": "Avenida Marqués de Corbera, 42",
+        "info": "https://www.laelipasiqueflipa.com/comerciate/luzimar.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.652066290378571,
+          40.42522539747959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "FRossny",
+        "description": "Calle Ricardo Ortiz, 8 Local 50",
+        "info": "https://www.laelipasiqueflipa.com/comerciate/frossny.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6581549048423767,
+          40.42968054340778
         ]
       }
     }
