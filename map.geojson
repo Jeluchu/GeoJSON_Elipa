@@ -19,20 +19,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-size": "medium",
-        "name": "El Dragón"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.6561673879623413,
-          40.422842528739835
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
@@ -347,20 +333,6 @@
         "marker-size": "medium",
         "name": "Metro La Elipa",
         "description": "Línea 2"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-size": "medium",
-        "name": "El Dragón"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -3.6561673879623413,
-          40.422842528739835
-        ]
       }
     },
     {
@@ -724,120 +696,18 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 3,
-        "stroke-opacity": 1,
-        "fill": "#555555",
-        "fill-opacity": 0.5,
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "name": "Parque Pinar de la Elipa",
-        "description": "Instalación no accesible para personas con movilidad reducida",
-        "url": ""
+        "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Parques-y-jardines/Patrimonio-Verde/Parques-en-Madrid/Parque-Pinar-de-la-Elipa/?vgnextfmt=default&vgnextoid=dd872e3d07cbe210VgnVCM2000000c205a0aRCRD&vgnextchannel=38bb1914e7d4e210VgnVCM1000000b205a0aRCRD",
+        "description": " Calle Felix Rodriguez de la Fuente,  26"
       },
       "geometry": {
-        "type": "Polygon",
+        "type": "Point",
         "coordinates": [
-          [
-            [
-              -3.6530077457427974,
-              40.42047999542463
-            ],
-            [
-              -3.653104305267334,
-              40.42048816335777
-            ],
-            [
-              -3.6537480354309078,
-              40.420463659555395
-            ],
-            [
-              -3.654499053955078,
-              40.4205616747113
-            ],
-            [
-              -3.655325174331665,
-              40.42074136879288
-            ],
-            [
-              -3.656301498413086,
-              40.42093739815262
-            ],
-            [
-              -3.657621145248413,
-              40.421149762647744
-            ],
-            [
-              -3.6579215526580806,
-              40.42107625193684
-            ],
-            [
-              -3.6581146717071533,
-              40.420782208289914
-            ],
-            [
-              -3.65818977355957,
-              40.42044732368219
-            ],
-            [
-              -3.6579108238220215,
-              40.4201451093125
-            ],
-            [
-              -3.657342195510864,
-              40.4199000696377
-            ],
-            [
-              -3.6568808555603027,
-              40.41963869300083
-            ],
-            [
-              -3.6566126346588135,
-              40.41937731534847
-            ],
-            [
-              -3.6563658714294434,
-              40.41868302602817
-            ],
-            [
-              -3.6552071571350093,
-              40.41793972010854
-            ],
-            [
-              -3.6537158489227295,
-              40.417514970181664
-            ],
-            [
-              -3.6508297920227046,
-              40.416534767808564
-            ],
-            [
-              -3.650078773498535,
-              40.416314220306624
-            ],
-            [
-              -3.649563789367676,
-              40.41831545819321
-            ],
-            [
-              -3.6509478092193604,
-              40.41865035341304
-            ],
-            [
-              -3.6510765552520748,
-              40.41895257449752
-            ],
-            [
-              -3.651323318481445,
-              40.41904242374729
-            ],
-            [
-              -3.6524176597595215,
-              40.419565180638756
-            ],
-            [
-              -3.6530077457427974,
-              40.42047999542463
-            ]
-          ]
+          -3.6545419692993164,
+          40.41906692806733
         ]
       }
     },
@@ -847,16 +717,105 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Parque Pinar de la Elipa",
-        "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Parques-y-jardines/Patrimonio-Verde/Parques-en-Madrid/Parque-Pinar-de-la-Elipa/?vgnextfmt=default&vgnextoid=dd872e3d07cbe210VgnVCM2000000c205a0aRCRD&vgnextchannel=38bb1914e7d4e210VgnVCM1000000b205a0aRCRD",
-        "description": " Calle Felix Rodriguez de la Fuente,  26",
-        "description2": "Instalación no accesible para personas con movilidad reducida"
+        "name": "Cementerio Ntra. Sra. de la Almudena",
+        "description": "Avenida de Daroca, 90",
+        "url": "https://emsf.es/cementerio/cementerio-ntra-sra-de-la-almudena"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -3.6545419692993164,
-          40.41906692806733
+          -3.6417746543884277,
+          40.420537170935695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Centro Municipal de Mayores 'Islas Filipinas'",
+        "description": "Calle Nuestra Señora del Villar, 6",
+        "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Servicios-sociales-y-salud/Direcciones-y-telefonos/Centro-Municipal-de-Mayores-Islas-Filipinas-/?vgnextfmt=default&vgnextoid=d34e8899fc81c010VgnVCM1000000b205a0aRCRD&vgnextchannel=2bc2c8eb248fe410VgnVCM1000000b205a0aRCRD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.651468157768249,
+          40.42363682769898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Centro Operaciones EMT",
+        "description": "Avenida de las Trece Rosas, 3",
+        "url": "https://www.emtmadrid.es/Empresa/Somos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.649595975875854,
+          40.42021862104088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Junta Municipal Ciudad Lineal",
+        "description": "Avenida Institución libre de enseñanza, 16",
+        "url": "https://www.facebook.com/DistritoCiudadLineal/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.637271225452423,
+          40.43609935478158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Parque de la Fuente del Berro",
+        "description": "Calle de los Peñascales, s/n",
+        "url": "https://www.esmadrid.com/informacion-turistica/parque-de-la-fuente-del-berro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.660989999771118,
+          40.42166433537493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "El Pirulí",
+        "description": "Calle de O'Donnell, 62",
+        "url": "https://www.esmadrid.com/informacion-turistica/torrespana-el-piruli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6624491214752197,
+          40.42057801055672
         ]
       }
     }
