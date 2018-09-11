@@ -333,6 +333,532 @@
           40.42263629534266
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.650886118412018,
+          40.426327981696836
+        ]
+      },
+      "properties": {
+        "marker-size": "medium",
+        "name": "Metro La Elipa",
+        "description": "Línea 2"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "medium",
+        "name": "El Dragón"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6561673879623413,
+          40.422842528739835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Óptica Lledó",
+        "description": "Avenida de Marqués de Corbera, 54",
+        "url": "https://www.laelipasiqueflipa.com/comerciate/lledo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6508888006210323,
+          40.42619934780283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "BPM La Elipa",
+        "description": "Calle Nuestra Señora del Villar, 6",
+        "url": "https://www.facebook.com/bpmLaElipa/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6519885063171387,
+          40.42328562211799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Recinto Ferial",
+        "description": "Avenida Trece Rosas,  9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6475682258605957,
+          40.4260502955227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Mercadillo",
+        "description": "Jueves y sábados de 9 a 14 horas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6476701498031616,
+          40.425707269842434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Clínica Dental Reymont",
+        "description": "Calle San Maximiliano, 39",
+        "url": "https://www.laelipasiqueflipa.com/comerciate/reymont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.652849495410919,
+          40.425282568957364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "The Language Corner",
+        "description": "Calle Gerardo Cordón, 51",
+        "url": "https://www.laelipasiqueflipa.com/comerciate/corner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.652980923652649,
+          40.42734887689348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Brico Luzi",
+        "description": "Avenida Marqués de Corbera, 42",
+        "url": "https://www.laelipasiqueflipa.com/comerciate/luzimar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.652066290378571,
+          40.42522539747959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "FRossny",
+        "description": "Calle Ricardo Ortiz, 8 Local 50",
+        "url": "https://www.laelipasiqueflipa.com/comerciate/frossny.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6581549048423767,
+          40.42968054340778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "FisioLife",
+        "description": "Calle de Ezequiel Solana, 92",
+        "url": "https://www.laelipasiqueflipa.com/comerciate/fisiolife"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.642855584621429,
+          40.42781235819822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "OGA Inmobiliaria",
+        "description": "Calle Martínez Izquierdo, 53",
+        "url": "https://www.laelipasiqueflipa.com/comerciate/oga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6634683609008785,
+          40.43533378446221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "La Cueva de JiJi",
+        "description": "Calle Ignacio Ellacuría, 8",
+        "url": "https://www.laelipasiqueflipa.com/comerciate/cuevajiji"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6572322249412537,
+          40.428931233824486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Las Pilares de la Estética",
+        "description": "Avenida de Marqués de Corbera, 44 ",
+        "url": "https://www.laelipasiqueflipa.com/comerciate/pilares"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6519563198089595,
+          40.42529890365638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Marti L'Art",
+        "description": "Avenida Marqués de Corbera, 47 ",
+        "url": "https://www.laelipasiqueflipa.com/comerciate/martilart"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6521387100219727,
+          40.425797110070654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "El Pollo Rcckero",
+        "description": "Calle Francisco Villaespesa, 12 ",
+        "url": "https://www.laelipasiqueflipa.com/comerciate/elpollorockero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.644859194755554,
+          40.4290312783662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "BPM Pablo Neruda",
+        "description": "Calle de Ascao,4",
+        "url": "https://es-es.facebook.com/bpmPNeruda/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6416298151016235,
+          40.42938857908604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Parroquia San Romualdo",
+        "description": "Calle de Ascao, 30",
+        "url": "http://www.archimadrid.es/sanromualdo/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.640774190425873,
+          40.42981529574414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "LH Magazin",
+        "description": "Calle y Travesía del Poeta Blas de Otero, 5, Local 2",
+        "url": "https://www.lhmagazin.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.655191063880921,
+          40.42263629534266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Academia MelTon",
+        "description": "Calle Arroyo de la Elipa, 12B",
+        "url": "https://academiamelton.negocio.site/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.64334374666214,
+          40.43201825398395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Centro Cultural la Elipa",
+        "description": "Calle Santa Felicidad,  39",
+        "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Cultura-ocio-y-deporte/Cultura-y-ocio/Direcciones-y-telefonos/Centro-Cultural-la-Elipa-Ciudad-Lineal-/?vgnextfmt=default&vgnextoid=6c191e79ee71c010VgnVCM1000000b205a0aRCRD&vgnextchannel=76f3efff228fe410VgnVCM2000000c205a0aRCRD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6503255367279053,
+          40.4244168242331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sala de ensayo \"EL GARAGE\"",
+        "description": "Avenida de la Institución Libre de Enseñanza, 16",
+        "url": "https://sede.madrid.es/UnidadesDescentralizadas/AdministracionElectronica/Tramites/Ficheros/BasesSalaEnsayoGarajeCLineal.pdf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6369654536247253,
+          40.43588907900219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "Parque Pinar de la Elipa",
+        "description": "Instalación no accesible para personas con movilidad reducida",
+        "url": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -3.6530077457427974,
+              40.42047999542463
+            ],
+            [
+              -3.653104305267334,
+              40.42048816335777
+            ],
+            [
+              -3.6537480354309078,
+              40.420463659555395
+            ],
+            [
+              -3.654499053955078,
+              40.4205616747113
+            ],
+            [
+              -3.655325174331665,
+              40.42074136879288
+            ],
+            [
+              -3.656301498413086,
+              40.42093739815262
+            ],
+            [
+              -3.657621145248413,
+              40.421149762647744
+            ],
+            [
+              -3.6579215526580806,
+              40.42107625193684
+            ],
+            [
+              -3.6581146717071533,
+              40.420782208289914
+            ],
+            [
+              -3.65818977355957,
+              40.42044732368219
+            ],
+            [
+              -3.6579108238220215,
+              40.4201451093125
+            ],
+            [
+              -3.657342195510864,
+              40.4199000696377
+            ],
+            [
+              -3.6568808555603027,
+              40.41963869300083
+            ],
+            [
+              -3.6566126346588135,
+              40.41937731534847
+            ],
+            [
+              -3.6563658714294434,
+              40.41868302602817
+            ],
+            [
+              -3.6552071571350093,
+              40.41793972010854
+            ],
+            [
+              -3.6537158489227295,
+              40.417514970181664
+            ],
+            [
+              -3.6508297920227046,
+              40.416534767808564
+            ],
+            [
+              -3.650078773498535,
+              40.416314220306624
+            ],
+            [
+              -3.649563789367676,
+              40.41831545819321
+            ],
+            [
+              -3.6509478092193604,
+              40.41865035341304
+            ],
+            [
+              -3.6510765552520748,
+              40.41895257449752
+            ],
+            [
+              -3.651323318481445,
+              40.41904242374729
+            ],
+            [
+              -3.6524176597595215,
+              40.419565180638756
+            ],
+            [
+              -3.6530077457427974,
+              40.42047999542463
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Parque Pinar de la Elipa",
+        "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Parques-y-jardines/Patrimonio-Verde/Parques-en-Madrid/Parque-Pinar-de-la-Elipa/?vgnextfmt=default&vgnextoid=dd872e3d07cbe210VgnVCM2000000c205a0aRCRD&vgnextchannel=38bb1914e7d4e210VgnVCM1000000b205a0aRCRD",
+        "description": " Calle Felix Rodriguez de la Fuente,  26",
+        "description2": "Instalación no accesible para personas con movilidad reducida"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6545419692993164,
+          40.41906692806733
+        ]
+      }
     }
   ]
 }
