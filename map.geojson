@@ -12,7 +12,7 @@
       },
       "properties": {
         "marker-size": "medium",
-        "name": "Metro La Elipa",
+        "name": "METRO LA ELIPA",
         "description": "Línea 2"
       }
     },
@@ -22,7 +22,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Óptica Lledó",
+        "name": "ÓPTICA LLEDÓ",
         "description": "Avenida de Marqués de Corbera, 54",
         "info": "https://www.laelipasiqueflipa.com/comerciate/lledo"
       },
@@ -40,7 +40,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "BPM La Elipa",
+        "name": "BPM LA ELIPA",
         "description": "Calle Nuestra Señora del Villar, 6",
         "facebook": "https://www.facebook.com/bpmLaElipa/"
       },
@@ -58,7 +58,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Recinto Ferial",
+        "name": "RECINTO FERIAL",
         "description": "Avenida Trece Rosas,  9"
       },
       "geometry": {
@@ -75,7 +75,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Mercadillo",
+        "name": "MERCADILLO",
         "description": "Jueves y sábados de 9 a 14 horas"
       },
       "geometry": {
@@ -92,7 +92,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Clínica Dental Reymont",
+        "name": "CLÍNICA DENTAL REYMONT",
         "description": "Calle San Maximiliano, 39",
         "info": "https://www.laelipasiqueflipa.com/comerciate/reymont"
       },
@@ -110,7 +110,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "The Language Corner",
+        "name": "THE LANGUAGE CORNER",
         "description": "Calle Gerardo Cordón, 51",
         "info": "https://www.laelipasiqueflipa.com/comerciate/corner"
       },
@@ -128,7 +128,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Brico Luzi",
+        "name": "BRICO LUZIMAR",
         "description": "Avenida Marqués de Corbera, 42",
         "info": "https://www.laelipasiqueflipa.com/comerciate/luzimar"
       },
@@ -146,7 +146,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "FRossny",
+        "name": "FROSSNY",
         "description": "Calle Ricardo Ortiz, 8 Local 50",
         "info": "https://www.laelipasiqueflipa.com/comerciate/frossny.html"
       },
@@ -164,7 +164,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "FisioLife",
+        "name": "FISIOLIFE",
         "description": "Calle de Ezequiel Solana, 92",
         "info": "https://www.laelipasiqueflipa.com/comerciate/fisiolife"
       },
@@ -330,9 +330,12 @@
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-symbol": "",
         "marker-size": "medium",
-        "name": "Metro La Elipa",
-        "description": "Línea 2"
+        "name": "METRO LA ELIPA",
+        "description": "Línea 2",
+        "url": "https://www.metromadrid.es/es/viaja_en_metro/red_de_metro/estaciones/LaElipa.html"
       }
     },
     {
@@ -341,7 +344,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Óptica Lledó",
+        "name": "ÓPTICA LLEDÓ",
         "description": "Avenida de Marqués de Corbera, 54",
         "url": "https://www.laelipasiqueflipa.com/comerciate/lledo"
       },
@@ -359,7 +362,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "BPM La Elipa",
+        "name": "BPM LA ELIPA",
         "description": "Calle Nuestra Señora del Villar, 6",
         "url": "https://www.facebook.com/bpmLaElipa/"
       },
@@ -377,7 +380,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Recinto Ferial",
+        "name": "RECINTO FERIAL",
         "description": "Avenida Trece Rosas,  9"
       },
       "geometry": {
@@ -394,7 +397,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Mercadillo",
+        "name": "MERCADILLO",
         "description": "Jueves y sábados de 9 a 14 horas"
       },
       "geometry": {
@@ -411,7 +414,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Clínica Dental Reymont",
+        "name": "CLÍNICA DENTAL REYMONT",
         "description": "Calle San Maximiliano, 39",
         "url": "https://www.laelipasiqueflipa.com/comerciate/reymont"
       },
@@ -429,7 +432,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "The Language Corner",
+        "name": "THE LANGUAGE CORNER",
         "description": "Calle Gerardo Cordón, 51",
         "url": "https://www.laelipasiqueflipa.com/comerciate/corner"
       },
@@ -447,7 +450,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Brico Luzi",
+        "name": "BRICO LUZIMAR",
         "description": "Avenida Marqués de Corbera, 42",
         "url": "https://www.laelipasiqueflipa.com/comerciate/luzimar"
       },
@@ -483,7 +486,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "FisioLife",
+        "name": "FISIOLIFE",
         "description": "Calle de Ezequiel Solana, 92",
         "url": "https://www.laelipasiqueflipa.com/comerciate/fisiolife"
       },
@@ -501,7 +504,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "OGA Inmobiliaria",
+        "name": "OGA INMOBILIARIA",
         "description": "Calle Martínez Izquierdo, 53",
         "url": "https://www.laelipasiqueflipa.com/comerciate/oga"
       },
@@ -519,7 +522,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "La Cueva de JiJi",
+        "name": "LA CUEVA DE JIJI",
         "description": "Calle Ignacio Ellacuría, 8",
         "url": "https://www.laelipasiqueflipa.com/comerciate/cuevajiji"
       },
@@ -537,7 +540,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Las Pilares de la Estética",
+        "name": "LAS PILARES DE LA ESTÉTICA",
         "description": "Avenida de Marqués de Corbera, 44 ",
         "url": "https://www.laelipasiqueflipa.com/comerciate/pilares"
       },
@@ -555,7 +558,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Marti L'Art",
+        "name": "MARTI L'ART",
         "description": "Avenida Marqués de Corbera, 47 ",
         "url": "https://www.laelipasiqueflipa.com/comerciate/martilart"
       },
@@ -573,7 +576,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "El Pollo Rcckero",
+        "name": "EL POLLO ROCKERO",
         "description": "Calle Francisco Villaespesa, 12 ",
         "url": "https://www.laelipasiqueflipa.com/comerciate/elpollorockero"
       },
@@ -591,7 +594,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "BPM Pablo Neruda",
+        "name": "BPM PABLO NERUDA",
         "description": "Calle de Ascao,4",
         "url": "https://es-es.facebook.com/bpmPNeruda/"
       },
@@ -609,7 +612,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Parroquia San Romualdo",
+        "name": "PARROQUIA SAN ROMUALDO",
         "description": "Calle de Ascao, 30",
         "url": "http://www.archimadrid.es/sanromualdo/"
       },
@@ -627,7 +630,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "LH Magazin",
+        "name": "LH MAGAZIN MUSIC",
         "description": "Calle y Travesía del Poeta Blas de Otero, 5, Local 2",
         "url": "https://www.lhmagazin.com/"
       },
@@ -645,7 +648,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Academia MelTon",
+        "name": "ACADEMIA MELTON",
         "description": "Calle Arroyo de la Elipa, 12B",
         "url": "https://academiamelton.negocio.site/"
       },
@@ -663,7 +666,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Centro Cultural la Elipa",
+        "name": "CENTRO CULTURAL LA ELIPA",
         "description": "Calle Santa Felicidad,  39",
         "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Cultura-ocio-y-deporte/Cultura-y-ocio/Direcciones-y-telefonos/Centro-Cultural-la-Elipa-Ciudad-Lineal-/?vgnextfmt=default&vgnextoid=6c191e79ee71c010VgnVCM1000000b205a0aRCRD&vgnextchannel=76f3efff228fe410VgnVCM2000000c205a0aRCRD"
       },
@@ -681,7 +684,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Sala de ensayo \"EL GARAGE\"",
+        "name": "SALA DE ENSAYO \"EL GARAGE\"",
         "description": "Avenida de la Institución Libre de Enseñanza, 16",
         "url": "https://sede.madrid.es/UnidadesDescentralizadas/AdministracionElectronica/Tramites/Ficheros/BasesSalaEnsayoGarajeCLineal.pdf"
       },
@@ -699,7 +702,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Parque Pinar de la Elipa",
+        "name": "PINAR DE LA ELIPA",
         "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/El-Ayuntamiento/Parques-y-jardines/Patrimonio-Verde/Parques-en-Madrid/Parque-Pinar-de-la-Elipa/?vgnextfmt=default&vgnextoid=dd872e3d07cbe210VgnVCM2000000c205a0aRCRD&vgnextchannel=38bb1914e7d4e210VgnVCM1000000b205a0aRCRD",
         "description": " Calle Felix Rodriguez de la Fuente,  26"
       },
@@ -717,7 +720,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Cementerio Ntra. Sra. de la Almudena",
+        "name": "CEMENTERIO NTRA. SRA. DE LA ALMUDENA",
         "description": "Avenida de Daroca, 90",
         "url": "https://emsf.es/cementerio/cementerio-ntra-sra-de-la-almudena"
       },
@@ -735,7 +738,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Centro Municipal de Mayores 'Islas Filipinas'",
+        "name": "CENTRO MUNICIPAL DE MAYORES 'ISLAS FILIPINAS'",
         "description": "Calle Nuestra Señora del Villar, 6",
         "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Servicios-sociales-y-salud/Direcciones-y-telefonos/Centro-Municipal-de-Mayores-Islas-Filipinas-/?vgnextfmt=default&vgnextoid=d34e8899fc81c010VgnVCM1000000b205a0aRCRD&vgnextchannel=2bc2c8eb248fe410VgnVCM1000000b205a0aRCRD"
       },
@@ -753,7 +756,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Centro Operaciones EMT",
+        "name": "CENTRO DE OPERACIONES EMT",
         "description": "Avenida de las Trece Rosas, 3",
         "url": "https://www.emtmadrid.es/Empresa/Somos"
       },
@@ -771,7 +774,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Junta Municipal Ciudad Lineal",
+        "name": "JUNTA MUNICIPAL DE CIUDAD LINEAL",
         "description": "Avenida Institución libre de enseñanza, 16",
         "url": "https://www.facebook.com/DistritoCiudadLineal/"
       },
@@ -789,7 +792,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Parque de la Fuente del Berro",
+        "name": "PARQUE DE LA FUENTE DEL BERRO",
         "description": "Calle de los Peñascales, s/n",
         "url": "https://www.esmadrid.com/informacion-turistica/parque-de-la-fuente-del-berro"
       },
@@ -807,7 +810,7 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "El Pirulí",
+        "name": "EL PIRULÍ",
         "description": "Calle de O'Donnell, 62",
         "url": "https://www.esmadrid.com/informacion-turistica/torrespana-el-piruli"
       },
@@ -816,6 +819,122 @@
         "coordinates": [
           -3.6624491214752197,
           40.42057801055672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "LA ELIPA ACTIVA",
+        "description": "Parque del Dragón",
+        "url": "https://www.facebook.com/laelipasiqueflipa/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.656226396560669,
+          40.4228792831403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "CENTRO DE SALUD DAROCA",
+        "description": "Avenida de Daroca, 4",
+        "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Servicios-sociales-y-salud/Direcciones-y-telefonos/Centro-de-Salud-Daroca/?vgnextfmt=default&vgnextoid=01a94b6faa61c010VgnVCM1000000b205a0aRCRD&vgnextchannel=2bc2c8eb248fe410VgnVCM1000000b205a0aRCRD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6583614349365234,
+          40.43074017949364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "IES MIGUEL DELIBES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6315393447875977,
+          40.422115604249306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "IES BARRIO DE BILBAO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.630678355693817,
+          40.421370294298505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "COLEGIO SAN JUAN BOSCO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.652642965316773,
+          40.4194140716422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "IES FRANCISCO DE GOYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6509639024734497,
+          40.41800506601313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "COLEGIO NTRA. SRA. DE LA MERCED"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.655056953430176,
+          40.42216256870936
         ]
       }
     }
