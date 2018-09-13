@@ -864,7 +864,9 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "IES MIGUEL DELIBES"
+        "name": "IES MIGUEL DELIBES",
+        "description": "Calle de Villaescusa, 17",
+        "url": "https://www.educa2.madrid.org/web/centro.ies.delibes.madrid"
       },
       "geometry": {
         "type": "Point",
@@ -880,7 +882,9 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "IES BARRIO DE BILBAO"
+        "name": "IES BARRIO DE BILBAO",
+        "description": "Calle de Villaescusa, 19",
+        "url": "http://www.iesbarriodebilbao.es/es/"
       },
       "geometry": {
         "type": "Point",
@@ -896,7 +900,9 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "COLEGIO SAN JUAN BOSCO"
+        "name": "COLEGIO SAN JUAN BOSCO",
+        "description": "Calle Santa Irene, 2",
+        "url": "https://www.educa2.madrid.org/web/ceip.sanjuanbosco.madrid"
       },
       "geometry": {
         "type": "Point",
@@ -912,7 +918,9 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "IES FRANCISCO DE GOYA"
+        "name": "IES FRANCISCO DE GOYA",
+        "description": "Calle Santa Irene, 4",
+        "url": "https://www.educa2.madrid.org/web/centro.ies.goya.madrid"
       },
       "geometry": {
         "type": "Point",
@@ -928,13 +936,105 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "COLEGIO NTRA. SRA. DE LA MERCED"
+        "name": "COLEGIO NTRA. SRA. DE LA MERCED",
+        "description": "Calle del Poeta Blas de Otero, 5",
+        "url": "http://colegioseilamerced.com/"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -3.655056953430176,
           40.42216256870936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "CLUB SOCIAL DE MAYORES DE LA ELIPA",
+        "description": "Calle  Santa Irene,  Plannta  S/N (Los Pinos)",
+        "url": "https://www.madrid.es/portales/munimadrid/es/Inicio/Servicios-sociales-y-salud/Direcciones-y-telefonos/Club-Social-de-Mayores-de-la-Elipa/?vgnextfmt=default&vgnextoid=0b7248ada7901110VgnVCM1000000b205a0aRCRD&vgnextchannel=2bc2c8eb248fe410VgnVCM1000000b205a0aRCRD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6515620350837708,
+          40.41875858138988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "COLEGIO GUSTAVO ADOLFO BÉCQUER",
+        "description": "Calle de Santa Genoveva, 32",
+        "url": "https://www.educa2.madrid.org/web/centro.cp.becquer.madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6495476961135864,
+          40.423932900746856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "COLEGIO LEOPOLDO ALAS",
+        "description": "Calle de Pedrezuela, 18",
+        "url": "http://cpleopoldoalasmadrid.blogspot.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6535897850990295,
+          40.42773272947881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "COLEGIO ESPÍRITU SANTO",
+        "description": "Calle San Emilio, 54-56",
+        "url": "http://www.colegioespiritusanto.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.656089603900909,
+          40.42590736836854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "COLEGIO LA PURÍSIMA",
+        "description": "Calle de Ricardo Ortiz, 29",
+        "url": "http://lpm.hfi.org.es/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6579322814941406,
+          40.42744688201716
         ]
       }
     }
